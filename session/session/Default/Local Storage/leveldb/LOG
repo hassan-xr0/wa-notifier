@@ -1,3 +1,3 @@
-2026/02/15-11:26:07.311 4ca Reusing MANIFEST /home/str/.local/share/wa-notifier/session/session/Default/Local Storage/leveldb/MANIFEST-000001
-2026/02/15-11:26:07.319 4ca Recovering log #7
-2026/02/15-11:26:07.320 4ca Reusing old log /home/str/.local/share/wa-notifier/session/session/Default/Local Storage/leveldb/000007.log 
+2026/02/15-13:26:54.661 45cb Reusing MANIFEST /home/str/.local/share/wa-notifier/session/session/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/15-13:26:54.668 45cb Recovering log #19
+2026/02/15-13:26:54.669 45cb Reusing old log /home/str/.local/share/wa-notifier/session/session/Default/Local Storage/leveldb/000019.log 
