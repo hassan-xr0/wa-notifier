@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec setsid uwsm-app -- zen-browser --new-instance -P webapp --name whatsapp-webapp --new-window "http://web.whatsapp.com/"
